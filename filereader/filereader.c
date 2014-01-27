@@ -12,7 +12,7 @@ extern void readIntoStructure(
   // make sure it's valid
   if (!fp) {
     // error if not, but don't halt execution
-    fputs("Filename doesn't exist, aborting\n",stderr);
+    fputs("Filename doesn't exist, nothing loaded\n",stderr);
     return;
   }
 
