@@ -1,3 +1,5 @@
-h1 Authors:
+Authors:
+==============
 Drew Erny
+
 Josh Wolfe
