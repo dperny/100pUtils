@@ -1,0 +1,6 @@
+digraph G {
+  parent -> lchild;
+  parent -> rchild;
+  rchild -> lgchild;
+  rchild -> rgchild;
+}
